@@ -1,0 +1,56 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+  }
+  
+  img {
+    width: 100px;
+  }
+  .item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+  }
+  
+  img {
+    width: 100px;
+  }
+  .itemlist {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .logo {
+    width: 100px;
+}
+.navbar {
+    display: flex;
+  }
+  
+  .links {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .link {
+    text-transform: capitalize;
+  }
+  
+  
